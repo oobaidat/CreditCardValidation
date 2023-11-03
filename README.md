@@ -70,3 +70,7 @@ Generate random number(s), each time displaying the number and the number’s cr
 &nbsp;&nbsp;&nbsp;&nbsp;ELSE\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Display “Randomly generated number: <generated number>\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is invalid”
+
+
+## Flowchart
+![Flowchart](/assets/images/CreditCardFlow.png)
