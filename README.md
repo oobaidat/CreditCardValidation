@@ -73,4 +73,4 @@ Generate random number(s), each time displaying the number and the number’s cr
 
 
 ## Flowchart
-![Flowchart](/assets/images/CreditCardFlow.png)
+![Flowchart](/CreditCardFlow.png)
